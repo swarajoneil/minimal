@@ -1,6 +1,19 @@
-title: Minimal theme
-logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+title: <p align="center"> Swaraj Parida </p>
+logo: E:\Desktop/photo-1.jpg
+
+description:
+  <p align="center">
+  <a href="E:\New folder\killme/Resume_SWARAJ PARIDA.pdf">Resume</a> |
+  <a href="https://www.linkedin.com/in/swaraj-parida/">LinkedIn</a> |
+  <a href="https://github.com/swarajoneil">GitHub</a>
+  
+  <br>   
+  I'm working on Data Science, Machine learning & NLP related problems.
+  Currently working with DST, Govt. of India at Analytics team.
+ 
+  <br>
+  </p>
+
+
+
 theme: jekyll-theme-minimal
